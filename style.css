@@ -9,6 +9,10 @@ body {
     background-color: rgb(181, 181, 181);
 }
 
+:root {
+    --cor1: #1b7269;
+}
+
 .calculator { 
     background-color: #000807;
     width: 250px;
